@@ -1,0 +1,3 @@
+- 👋 Hi, I’m dogecodez
+- 🙂 I like making stuff in VB.NET or JS(web)
+- ❗ Learning PHP and Lua
